@@ -1,0 +1,14 @@
+name: GitHub Activity
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update GitHub Activity Readme
+        uses: tuunit/github-activity-readme@master
