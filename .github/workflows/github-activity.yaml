@@ -13,6 +13,6 @@ jobs:
       - name: Update GitHub Activity Readme
         uses: tuunit/github-activity-readme@master
         with:
-          MAX_LINES: 10
+          MAX_LINES: 25
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
