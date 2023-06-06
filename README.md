@@ -13,7 +13,7 @@
 10. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61#issuecomment-1571065704) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 11. 🔒 Closed issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 12. 🗣 Commented on [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44#issuecomment-1571063187) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-13. 🚀 Published release [#v0.4.0](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.0) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+13. 🚀 Published release [v0.4.0](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.0) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 14. 🎉 Merged PR [#97](https://github.com/jamesgeorge007/github-activity-readme/pull/97) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 15. ❌ Closed PR [#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 16. 🗣 Commented on [#60](https://github.com/jamesgeorge007/github-activity-readme/pull/60#issuecomment-1569800355) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
