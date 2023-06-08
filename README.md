@@ -85,6 +85,18 @@ Content before the activity section
 80. 🗣 Commented on [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93#issuecomment-1549552765) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 81. 🗣 Commented on [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93#issuecomment-1549551158) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 82. 🗣 Commented on [#95](https://github.com/jamesgeorge007/github-activity-readme/pull/95#issuecomment-1549520591) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+83. 💪 Opened PR [#95](https://github.com/jamesgeorge007/github-activity-readme/pull/95) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+84. ❌ Closed PR [#4](https://github.com/seacrew/helm-compose/pull/4) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+85. 🚀 Published release [1.0.0-beta.1](https://github.com/seacrew/helm-compose/releases/tag/1.0.0-beta.1) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+86. 🚀 Published release [1.0.0-alpha.3](https://github.com/seacrew/helm-compose/releases/tag/1.0.0-alpha.3) in [seacrew/helm-compose](https://github.com/seacrew/helm-compose)
+87. 🗣 Commented on [#8](https://github.com/onixpro/mkdocs-drawio-file/pull/8#issuecomment-1545446720) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+88. 🗣 Commented on [#114606](https://github.com/kubernetes/kubernetes/pull/114606#issuecomment-1545430296) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+89. 🗣 Commented on [#1928](https://github.com/oauth2-proxy/oauth2-proxy/pull/1928#issuecomment-1493994796) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+90. 🗣 Commented on [#7](https://github.com/onixpro/mkdocs-drawio-file/issues/7#issuecomment-1492734813) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+91. 💪 Opened PR [#8](https://github.com/onixpro/mkdocs-drawio-file/pull/8) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
+92. 🗣 Commented on [#114606](https://github.com/kubernetes/kubernetes/pull/114606#issuecomment-1477801718) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+93. 🗣 Commented on [#114606](https://github.com/kubernetes/kubernetes/pull/114606#issuecomment-1477800544) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+94. 🗣 Commented on [#7](https://github.com/onixpro/mkdocs-drawio-file/issues/7#issuecomment-1472763941) in [onixpro/mkdocs-drawio-file](https://github.com/onixpro/mkdocs-drawio-file)
 <!--END_SECTION:activity-->
 
 Content after the activity section
