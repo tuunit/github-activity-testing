@@ -11,9 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update GitHub Activity Readme
-        uses: tuunit/github-activity-readme@master
+        uses: aeswibon/github-activity-readme@issue#103
         with:
-          GH_USERNAME: jamesgeorge007
+          GH_USERNAME: nleger
           MAX_LINES: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
