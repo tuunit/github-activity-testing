@@ -13,7 +13,7 @@ jobs:
       - name: Update GitHub Activity Readme
         uses: tuunit/github-activity-readme@master
         with:
+          GH_USERNAME: jamesgeorge007
           MAX_LINES: 5
         env:
-          GH_USERNAME: jamesgeorge007
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
