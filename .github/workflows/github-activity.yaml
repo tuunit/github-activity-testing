@@ -13,7 +13,7 @@ jobs:
       - name: Update GitHub Activity Readme
         uses: aeswibon/github-activity-readme@issue#103
         with:
-          GH_USERNAME: nleger
+          GH_USERNAME: tuunit
           MAX_LINES: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
