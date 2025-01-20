@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update GitHub Activity Readme
-        uses: jamesgeorge007/github-activity-readme@v0.4.4
+        uses: tuunit/github-activity-readme@1745fb6ecee639b5625b0ddaa2845d095228b927
         with:
           GH_USERNAME: tuunit
           MAX_LINES: 5
