@@ -3,11 +3,11 @@
 Content before the activity section
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.4](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.4) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🔒 Closed issue [#103](https://github.com/jamesgeorge007/github-activity-readme/issues/103) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🎉 Merged PR [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115#issuecomment-2025701087) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#115](https://github.com/jamesgeorge007/github-activity-readme/pull/115#issuecomment-2025657872) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#4244](https://github.com/artifacthub/hub/issues/4244#issuecomment-2599840782) in [artifacthub/hub](https://github.com/artifacthub/hub)
+2. 🗣 Commented on [#4244](https://github.com/artifacthub/hub/issues/4244#issuecomment-2599804690) in [artifacthub/hub](https://github.com/artifacthub/hub)
+3. ❗ Opened issue [#4244](https://github.com/artifacthub/hub/issues/4244) in [artifacthub/hub](https://github.com/artifacthub/hub)
+4. 🔒 Closed issue [#2929](https://github.com/oauth2-proxy/oauth2-proxy/issues/2929) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+5. 🗣 Commented on [#2929](https://github.com/oauth2-proxy/oauth2-proxy/issues/2929#issuecomment-2599672474) in [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 <!--END_SECTION:activity-->
 
 Content after the activity section
