@@ -2,6 +2,11 @@ name: GitHub Activity
 
 on:
   workflow_dispatch:
+    inputs:
+      name:
+        type: string
+        default: tuunit
+        required: true
 
 jobs:
   build:
@@ -11,9 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update GitHub Activity Readme
-        uses: tuunit/github-activity-readme@1745fb6ecee639b5625b0ddaa2845d095228b927
+        uses: jamesgeorge007/github-activity-readme@master
         with:
-          GH_USERNAME: tuunit
+          GH_USERNAME: ${{ inputs.name }}
           MAX_LINES: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
