@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update GitHub Activity Readme
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: jamesgeorge007/github-activity-readme@c6251aa7c953453542e989c85b104daddff88665
         with:
           GH_USERNAME: ${{ inputs.name }}
           MAX_LINES: 5
